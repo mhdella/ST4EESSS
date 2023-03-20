@@ -1,7 +1,6 @@
 # ST4EESSS
 Spatio-Temporal Aggregation of Onboard Vessel and External Weather Data to Improve Energy Efficiency in Short-Sea Shipping
 
-
 ### Python code to data preprocessing and visualization
 
 This notebook the data preprocessing and vaisulaization
